@@ -23,7 +23,7 @@ Make sure you setup your .env file manually
 
 So paste in this in your .env file
 ```
-OPENWEATHER_API_KEY=fbfb4edc59da249f63491489aa7afb75
+OPENWEATHER_API_KEY=" USE YOUR API KEY "
 OLLAMA_MODEL=qwen2.5:7b
 ```
 
