@@ -1,5 +1,0 @@
-langchain
-langchain-ollama
-langchain-community
-python-dotenv
-requests
