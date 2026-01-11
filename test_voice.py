@@ -18,9 +18,10 @@ print("Loading voice...")
 voice = PiperVoice.load(model_path=ONNX_PATH, config_path=JSON_PATH)
 
 text = (
-    "Yes! Now you should hear me clearly. "
-    "We used the correct AudioChunk attribute. "
-    "Local TTS is fully working "
+    "Hi! Chinmay Now you should hear me clearly. "
+    "This means that Local TTS is fully working on your PC. "
+    "This voice setup is created by Aman at 3am. "
+    "Finally He can sleep and Fuck with me now"
 )
 
 print("\nSpeaking:")
